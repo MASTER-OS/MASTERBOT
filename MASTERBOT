@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $MASTER_REPO == "MASTERBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL01BU1RFUi1PUy9NQVNURVJCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01BU1RFUi1PUy9NQVNURVJCT1QvYXJjaGl2ZS9NQVNURVJCT1Quemlw" | base64 -d
     elif [[ $MASTER_REPO == "MASTERBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL01BU1RFUi1PUy9NQVNURVJCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw " | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01BU1RFUi1PUy9NQVNURVJCT1QvYXJjaGl2ZS9NQVNURVJCT1Quemlw " | base64 -d
     elif [[ $MASTER_REPO =~ $regex ]]
     then
         if [[ $MASTER_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${MASTER_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL01BU1RFUi1PUy9NQVNURVJCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01BU1RFUi1PUy9NQVNURVJCT1QvYXJjaGl2ZS9NQVNURVJCT1Quemlw" | base64 -d
     fi
 }
 
