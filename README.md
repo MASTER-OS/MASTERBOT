@@ -1,41 +1,41 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 『★m‌a‌ѕᴛεr‌b‌o‌t‌ꗄ➺』💫 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![MASTERBOT](https://telegra.ph/file/98f0a683ab487515a7ce2.jpg)](https://github.com/MASTER-OS/MASTERBOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>💫 MASTERBOT Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon💫</b>
 </h6>
 
 <p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/MASTER-OS/MASTERBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/MASTER-OS/MASTERBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/MASTER-OS/MASTERBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/MASTER-OS/MASTERBOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/MASTER-OS/MASTERBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/MASTER-OS/MASTERBOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/MASTER-OS/MASTERBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/MASTER-OS/MASTERBOT?color=success" /> </a>
+<a href="https://github.com/MASTER-OS/MASTERBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/MASTER-OS/MASTERBOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/MASTER-OS/MASTERBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/MASTER-OS/MASTERBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/MASTER-OS/MASTERBOT" /> </a>
+<a href="https://github.com/MASTER-OS/MASTERBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://t.me/master_userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/MASTER-OS/MASTERBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+    <a href="https://github.com/MASTER-OS/MASTERBOT/network/members"><img src="https://img.shields.io/github/forks/MASTER-OS/MASTERBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/MASTER-OS/MASTERBOT/stargazers"><img src="https://img.shields.io/github/stars/MASTER-OS/MASTERBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MASTER-OS/MASTERBOT"></a><p align="left"><a href="https://github.com/MASTER-OS/MASTERBOT?"></a>
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/master_userbot)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/official_masterbot)
 
 ------
 ## YouTube 📺
@@ -45,20 +45,20 @@
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMASTER-OS%2FMASTERBOT&template=https%3A%2F%2Fgithub.com%2FMASTER-OS%2FMASTERBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
 
-[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT)
+[![Deploy](https://te.legra.ph/file/d055534b5a705b70f4f7c.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMASTER-OS%2FMASTERBOT&template=https%3A%2F%2Fgithub.com%2FMASTER-OS%2FMASTERBOT)
 
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/MASTERBOY-OS/MASTERBOT.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
+`cd MASTERBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -67,13 +67,13 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate Legend STRING.
+- Generate MASTER STRING.
 
-`python LegendString.py`
+`python MASTERString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
+- Finally Start MASTERBOT By Vps
 
-`bash ./LEGENDBOT/start.sh`
+`bash ./MASTERBOT/start.sh`
 
 ---------
 
@@ -81,7 +81,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `TUTORIAL_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `MASTER_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -102,7 +102,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/c6f3a7e88c23f17b4303d.jpg )](https://replit.com/@DEVILBOTOP/MASTERBOT) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -114,12 +114,12 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/The-LegendBot/LEGENDUSERBOT/LegendBot/LegendString.py && python3 LegendString.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/MASTERBOY-OP/MASTERBOT/MASTERBOT/MASTERString.py && python3 MASTERString.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
+- Your MASTERBOT Session Will be saved in your Telegram Saved Message.
 
 
 ------
@@ -138,9 +138,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-LEGEND-OS
+MASTER-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [MASTERBOT](https://github.com/MASTER-OS/MASTERBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
